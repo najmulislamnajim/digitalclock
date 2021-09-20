@@ -34,7 +34,7 @@ span{
     font-size: 50px;
 }
 .owner{
-    top: 80vh;
+    bottom: 50px;
     right: 5%;
     position: fixed;
 }
@@ -58,21 +58,3 @@ span{
         top: 45%;
     }
 }
-/* @media (max-width:400px) {
-
-    .myWatch .clock{
-       left: 20%;
-    }
-    .myWatch .day{
-        left: 10%;
-        top: 45%;
-        /* display: flex;
-        justify-content: start;
-        align-items: center;
-        flex-wrap: wrap;
-        margin-right: 20px;
-    }
-    .myWatch .day:first-child(){
-        margin-right: 8888px;
-    }
-} */
