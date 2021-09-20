@@ -58,3 +58,14 @@ span{
         top: 51%;
     }
 }
+@media (max-width:400px) {
+    .myWatch .day{
+        left: 10%;
+        top: 45%;
+        display: flex;
+        justify-content: start;
+        align-items: center;
+        flex-wrap: wrap;
+        margin-right: 20px;
+    }
+}
