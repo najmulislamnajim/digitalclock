@@ -45,19 +45,6 @@ span{
 
 }
 
-@media (max-width:600px) {
-    span{
-        font-size: 25px;
-        padding: 2px;
-    }
-    .myWatch .clock{
-        left: 25%;
-    }
-    .myWatch .day{
-        left: 10%;
-        top: 51%;
-    }
-}
 @media (max-width:400px) {
     }
     .myWatch .clock{
