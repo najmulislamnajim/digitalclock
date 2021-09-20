@@ -59,6 +59,10 @@ span{
     }
 }
 @media (max-width:400px) {
+    }
+    .myWatch .clock{
+        left: 20%;
+    }
     .myWatch .day{
         left: 10%;
         top: 45%;
